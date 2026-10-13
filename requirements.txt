@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+boto3
+sentence-transformers
+psycopg[binary]
+pgvector
+ollama
